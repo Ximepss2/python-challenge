@@ -1,0 +1,6 @@
+Financial Analysis
+The data set includes info of 85 months
+The total amount is $ 37514694.0
+Average change:-2315.1176470588234
+Greatest increase in profits : Feb-2012 - 1926159.0
+Greatest decrease in profits : Sep-2013 - -2196167.0
